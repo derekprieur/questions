@@ -1,5 +1,5 @@
 //using selectors inside the element
-// traversing the dom
+// traversing the DOM
 
 const btns = document.querySelectorAll('.question-btn');
 
